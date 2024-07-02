@@ -1,7 +1,7 @@
 <h1>Coloured Markers</h1>
 
-https://venuprakash.github.io/colouredmarkers/
+<h3>https://venuprakash.github.io/colouredmarkers/</h3>
 
-Build a set of colored markers using CSS
+<h4>Build a set of colored markers using CSS</h4>
 
 
