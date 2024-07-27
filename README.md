@@ -1,4 +1,4 @@
-<h1>Coloured Markers</h1>
+<h1>FREECODECAMP - Coloured Markers</h1>
 
 <h3>https://venuprakash.github.io/colouredmarkers/</h3>
 
